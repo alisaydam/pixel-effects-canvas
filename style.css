@@ -14,20 +14,32 @@
   top: 0;
   left: 0;
 }
- 
-ul{ 
-  width: 350px; 
-  background-color: white; 
+
+ul {
+  width: 350px;
+  background-color: white;
   text-align: center;
-} 
-li { 
+}
+li {
   width: 100%;
   background-color: wheat;
   border-radius: 3px;
   margin-bottom: 2px;
   font-size: 25px;
 }
-a{
+ul {
+  width: 350px;
+  background-color: white;
+  text-align: center;
+}
+li {
+  width: 100%;
+  background-color: wheat;
+  border-radius: 3px;
+  margin-bottom: 2px;
+  font-size: 25px;
+}
+a {
   background-color: wheat;
   text-decoration: none;
 }
