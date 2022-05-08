@@ -15,4 +15,19 @@
   height: 983px;
   filter: blur(1px) contrast(1);
 }
- 
+ ul{ 
+  width: 350px; 
+  background-color: white; 
+  text-align: center;
+} 
+li { 
+  width: 100%;
+  background-color: wheat;
+  border-radius: 3px;
+  margin-bottom: 2px;
+  font-size: 25px;
+}
+a{
+  background-color: wheat;
+  text-decoration: none;
+}
